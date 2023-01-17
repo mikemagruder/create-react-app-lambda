@@ -6,7 +6,7 @@ const Navbar = () => {
       <PrimaryNav>
         <Hamburger />
         <Menu>
-          <MenuLink to="/home" activestyle>
+          <MenuLink to="/" activestyle>
             Home
           </MenuLink>
           <MenuLink to="/todo" activestyle>
